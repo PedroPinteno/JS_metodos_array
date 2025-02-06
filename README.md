@@ -163,5 +163,5 @@ metodos_array_zoo/
 1. Clona el repositorio:
 ```bash
 git clone https://github.com/PedroPinteno/metodos_array_zoo.git
-cd metodos_array_zoo
+cd JS_metodos_array
 ```
